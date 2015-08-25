@@ -3,7 +3,7 @@ package com.cs.ne.action;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-//Comments Added
+//Comments Added One
 import com.cs.ne.bean.MainBean;
 import com.cs.ne.dao.DAOException;
 import com.cs.ne.dao.MainDAO;
@@ -39,9 +39,7 @@ public class MainAction extends ActionSupport implements ModelDriven<MainBean>{
 		this.getIdArray = getIdArray;
 	}
 
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 
 	public String execute()

@@ -1,5 +1,6 @@
 package com.cs.ne.dao;
 
+//New Comments added
 public class Constants {
 	
 	public static final String getIdDetails="select id from data";
