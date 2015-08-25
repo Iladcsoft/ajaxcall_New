@@ -1,0 +1,90 @@
+@CHARSET "ISO-8859-1";
+#main
+{
+	height:550px;
+	width:1500px;
+	background: red;
+}
+
+#header
+{
+	height:50px;
+	width:100%;
+	float: left;
+	position: relative;
+	background:green;	
+}
+#menu
+{
+	height:450px;
+	width:20%;
+	float: left;
+	position: relative;
+	background: pink;
+}
+#mainarea
+{
+	height:450px;
+	width:80%;
+	float:left;
+	position: relative;
+	background: white;
+}
+#mainarea1
+{
+	
+	height:450px;
+	width:50%;
+	position: absolute;;
+	border: 2px solid red;
+	
+	float:left;
+}
+
+#mainarea2
+{
+	
+	height:450px;
+	width:50%;
+	position: absolute;;
+	border: 2px solid red;
+	
+	float:left;
+	left:50%;
+}
+/*
+#mainarea3
+{
+	height:225px;
+	width:50%;
+	top:225px;
+	position: absolute;;
+	border: 2px solid green;
+	
+	float:left;
+	
+}
+
+#mainarea4
+{
+	height:225px;
+	width:50%;
+	top:225px;
+	position: absolute;;
+	border: 2px solid red;
+	
+	float:left;
+	left:50%;
+}
+*/
+#footer
+{
+	height:50px;
+	width:100%;
+	float:left;
+	background: blue;
+	position: relative;
+	
+	
+}
+
